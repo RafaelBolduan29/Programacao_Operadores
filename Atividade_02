@@ -1,0 +1,27 @@
+Exemplo
+1) S = (A v B) ^ ~C
+S = (V v F) ^ ~F
+S = V ^ V
+S = V
+
+Agora é a sua vez!
+
+2) S = (D v A ^ C) v ~(B v C)
+S = (V v V ^ F) v ~(F v F)  
+S = F v V 
+S = V
+
+3) S = ~(A v B)
+S = ~(V v F)
+S = ~V
+S = F
+
+4) S = ~(A ^ B)
+S = ~(V ^ F) 
+S = ~F
+S = V
+
+5) S = C v ~B ^ (A v ~D)
+S = F v ~F ^ ( V v ~ V)
+S= V ^ V
+S = V
